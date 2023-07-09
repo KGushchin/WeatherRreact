@@ -1,0 +1,13 @@
+.fuckgoback {
+    display: flex;
+font-weight: bold;
+    align-items: center;
+    cursor: pointer;
+}
+.img {
+    max-width: 30px;
+
+}
+.text {
+    padding-bottom: 5px;
+}

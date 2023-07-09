@@ -1,0 +1,51 @@
+.window__wrapper {
+border: 2px solid aqua;
+    border-radius: 10px;
+    max-width: 600px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+   margin: 0px 15px;
+}
+.bug {
+    max-width: 80%;
+
+}
+.data__img {
+    max-width: 150px;
+}
+.data__name {
+    font-size: 36px;
+    font-family: Georgia;
+    font-weight: bold;
+}
+.deegres__info {
+    font-size: 36px;
+}
+.deegres__desc {
+    font-size: 36px;
+    margin-bottom: 30px;
+}
+.errortext {
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+.bug {
+    margin-bottom: 10px;
+}
+@media(max-width:620px) {
+.deegres__desc {
+    font-size: 24px;
+}
+    .window__wrapper {
+        max-width: 320px;
+    }
+}
+@media (max-width: 330px) {
+    .window__wrapper {
+        max-width: 270px;
+    }
+}

@@ -1,0 +1,12 @@
+.window__button {
+    background-color: deepskyblue;
+    border-radius: 20px;
+    min-width: 200px;
+    min-height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    color: whitesmoke;
+    margin-bottom: 30px;
+}

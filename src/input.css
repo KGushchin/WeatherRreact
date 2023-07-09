@@ -1,0 +1,16 @@
+.find__icon {
+    max-width: 30px;
+    cursor: pointer;
+}
+.input__wrapper {
+    min-width: 250px;
+    margin-top: 40px;
+    min-height: 10px;
+    margin-bottom: 40px;
+    margin: 40px 40px;
+    border: 1px solid darkgrey;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    justify-content: space-between;
+}
